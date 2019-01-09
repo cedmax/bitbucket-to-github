@@ -1,4 +1,4 @@
-# Migrate Bitbucket repos to Github private repos
+# A tool for migrating Bitbucket private repos to Github
 
 Please make sure you read the [safety information](https://github.com/cedmax/bitbucket-to-github#safety-information) before proceeding: there's an edge case that could expose your private repos.
 
