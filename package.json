@@ -1,0 +1,16 @@
+{
+  "name": "migrate-bitbucket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "@octokit/rest": "^16.7.0",
+    "bitbucket": "^1.7.0",
+    "dotenv": "^6.2.0",
+    "rimraf": "^2.6.3",
+    "simple-git": "^1.107.0"
+  }
+}
