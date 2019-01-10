@@ -2,6 +2,13 @@
 
 Please make sure you read the [safety information](https://github.com/cedmax/bitbucket-to-github#safety-information) before proceeding: there's an edge case that could expose your private repos.
 
+Before starting make sure you can clone your Bitbucket repos by running on one of them
+
+`> git clone git@bitbucket.org:${USERNAME}/${REPONAME}.git`
+
+If this doesn't work please fix it before continuing. 
+
+
 ## Configuration
 
 1. Copy `env` to `.env`
